@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+
+  datasource:
+    url: 139.224.72.89:3306/pay
+    username: root
+    password: 123456
+
+
