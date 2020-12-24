@@ -1,4 +1,4 @@
-package com.decoo.pay.api.dto.pay.req;
+package com.decoo.pay.common.dto.pay.req;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

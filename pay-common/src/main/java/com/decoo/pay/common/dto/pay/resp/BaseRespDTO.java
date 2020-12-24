@@ -1,4 +1,4 @@
-package com.decoo.pay.api.dto.pay.resp;
+package com.decoo.pay.common.dto.pay.resp;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.decoo.pay.api;
+package com.decoo.pay.common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

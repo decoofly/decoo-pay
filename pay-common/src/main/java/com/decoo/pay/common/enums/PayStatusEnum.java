@@ -1,4 +1,4 @@
-package com.decoo.pay.api.enums;
+package com.decoo.pay.common.enums;
 
 public enum PayStatusEnum {
 
