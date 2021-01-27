@@ -13,6 +13,7 @@
     <modules>
         <module>pay-common</module>
         <module>pay-api</module>
+        <module>pay-router</module>
     </modules>
 
     <properties>

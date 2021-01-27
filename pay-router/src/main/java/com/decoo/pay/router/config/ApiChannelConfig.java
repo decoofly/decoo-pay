@@ -1,4 +1,4 @@
-package com.decoo.pay.api.config;
+package com.decoo.pay.router.config;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;

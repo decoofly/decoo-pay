@@ -14,6 +14,8 @@ public class BaseReqDTO {
      * amount
      */
     private BigDecimal amount;
-
+    /**
+     * 请求参数
+     */
     private String reqParam;
 }
